@@ -1,6 +1,6 @@
 # 🌀 Controllable Generation with GANs
 
-📋 This project focuses on implementing a GAN controllability method using gradients from a classifier. By training a classifier to recognize a relevant feature, we can use it to adjust the generator's inputs (z-vectors) to produce images with varying degrees of that feature.
+This project focuses on implementing a GAN controllability method using gradients from a classifier. By training a classifier to recognize a relevant feature, we can use it to adjust the generator's inputs (z-vectors) to produce images with varying degrees of that feature.
 
 ## Learning Objectives
 
